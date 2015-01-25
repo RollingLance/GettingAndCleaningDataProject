@@ -8,13 +8,13 @@ output: html_document
 DATA DICTIONARY - Course Project Submitted Tidy Data
 
 activity 
-    * integer ranges from 1 - 6
+* integer ranges from 1 - 6
  
 activity_name
-	* characters - description of activity
+* characters - description of activity
  
 subject
-	* integer ranges from 1 - 30
+* integer ranges from 1 - 30
 
 All the following columns are named by those features which are mean and STD measurements. 
 Values of these columns are actually average of feature values grouped by activity and subject.
