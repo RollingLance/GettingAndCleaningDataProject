@@ -13,7 +13,7 @@ Input Data:
 	./UCI HAR Dataset/activity_labels.txt
 
 Output Data:
-	./tidy_project_data.txt
+*./tidy_project_data.txt
 
 Methodology:
 * Training and Test data are combined together by row binding. Also each row we add subject ID and activity ID corresponding to those features.
